@@ -1,0 +1,22 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Carpeta de salida de compilación
+/target/
+
+# Archivos de configuración de IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Archivos de compilación
+*.class
+
+# Archivos de dependencias
+/lib/
+
+# Archivos de respaldo
+*~
+*.bak
+
